@@ -1,0 +1,7 @@
+path: /Users/kbtha/Desktop/Mask Detection
+train: images
+val: images
+
+names:
+  0: face_no_mask
+  1: face_with_mask
